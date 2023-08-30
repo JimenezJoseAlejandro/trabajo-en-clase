@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEB1(PRUEVA).props" />
+</Project>
